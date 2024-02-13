@@ -39,7 +39,7 @@ export default function Home() {
   return (
     <main className="center-container">
       <div>
-        <h1>¿Quieres ser mi novia?</h1>
+        <h1>¿Queres ser mi novia?</h1>
           <Image src={myGif} alt="teamovicky" className="gif-enamorado" height={100} width={100} />
         <div className="flex-buttons">
           <button className="button-novio-si" onClick={changeScreen}>Si</button>

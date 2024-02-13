@@ -40,6 +40,14 @@ h1, h2,h3 {
   margin-top: 15px;
  } 
 
+ .gif-enamorado-occult{
+  height: auto;
+  width: auto;
+  margin: auto;
+  margin-top: 15px;
+  display: none;
+ }
+
 @font-face {
   font-family: 'Valentine';
   src: url('../app/fonts/Valentine\ Cute.ttf');
